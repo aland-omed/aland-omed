@@ -30,40 +30,48 @@
   <img src="https://img.shields.io/badge/-IoT-2C5BB4?style=for-the-badge&logo=arduino&logoColor=white" />
 </div>
 
-## 📊 GitHub Analytics
+## 💼 Professional Focus
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aland-omed&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aland-omed&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aland-omed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/fluent/48/000000/web-design.png"/><br>
+        <strong>Web Development</strong><br>
+        Creating responsive and dynamic user experiences
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/fluent/48/000000/code.png"/><br>
+        <strong>Full Stack Solutions</strong><br>
+        End-to-end application development
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/fluent/48/000000/circuit.png"/><br>
+        <strong>IoT Systems</strong><br>
+        Smart and connected device solutions
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🌐 Services & Portfolio
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <strong>🖥️ Web Development</strong><br>
-        Responsive & dynamic websites
-      </td>
-      <td>
-        <strong>📱 Software Solutions</strong><br>
-        Custom software for unique needs
-      </td>
-      <td>
-        <strong>🔌 IoT Development</strong><br>
-        Connected device solutions
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/Custom%20Website%20Development-007ACC?style=for-the-badge&logo=firefox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bespoke%20Software%20Solutions-4EAA25?style=for-the-badge&logo=codepen&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT%20Implementation-FF9E0F?style=for-the-badge&logo=arduino&logoColor=white" />
+  
+  <br><br>
   
   <a href="https://main.codecommerce.info/" target="_blank">
     <img src="https://img.shields.io/badge/Visit_My_Website-1a1f71?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aland-omed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 📫 Connect With Me
@@ -78,12 +86,6 @@
   <a href="https://github.com/aland-omed">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aland-omed&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </div>
 
 <div align="center">
