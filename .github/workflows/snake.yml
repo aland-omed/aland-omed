@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile graphics
 
 on:
   schedule:
@@ -14,6 +14,17 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Activity graphic
+        run: |
+          pip install fonttools
+          python .github/scripts/activity.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USER_LOGIN: ${{ github.repository_owner }}
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}

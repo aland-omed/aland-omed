@@ -126,16 +126,7 @@ values:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aland-omed&show_icons=true&hide_border=false&border_color=1E2342&bg_color=080A1E&title_color=FF3D00&text_color=F4EFEB&icon_color=FF3D00&ring_color=FF3D00&rank_icon=github" alt="GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aland-omed&layout=compact&hide_border=false&border_color=1E2342&bg_color=080A1E&title_color=FF3D00&text_color=F4EFEB" alt="Top languages" height="170" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=aland-omed&background=080A1E&border=1E2342&ring=FF3D00&fire=FF3D00&currStreakNum=F4EFEB&sideNums=F4EFEB&currStreakLabel=FF3D00&sideLabels=F4EFEB&dates=8A8FA8" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aland-omed&bg_color=080A1E&color=F4EFEB&line=FF3D00&point=F4EFEB&area=true&area_color=FF3D00&title_color=FF3D00&hide_border=true" alt="Contribution graph" width="100%" />
+<img src="https://raw.githubusercontent.com/aland-omed/aland-omed/output/activity.svg" alt="GitHub activity" width="100%" />
 
 <br/>
 
