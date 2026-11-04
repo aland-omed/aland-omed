@@ -126,7 +126,7 @@ values:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aland-omed/aland-omed/output/activity.svg" alt="GitHub activity" width="100%" />
+<img src="https://raw.githubusercontent.com/aland-omed/aland-omed/output/activity.svg?v=2" alt="GitHub activity" width="100%" />
 
 <br/>
 
