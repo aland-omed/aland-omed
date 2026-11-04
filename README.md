@@ -1,257 +1,178 @@
 <div align="center">
 
-<!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:2563EB,100:1D4ED8&height=200&section=header&text=Aland%20Omed&fontSize=55&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Computer%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20IoT%20Engineer&descSize=16&descAlignY=60" width="100%" />
+<img src="assets/banner.svg" alt="Aland Omed, founder of Orbit KRD, a software company and marketing agency" width="100%" />
 
-<!-- TYPING TITLE -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+scalable+web+apps+%F0%9F%9A%80;Designing+smart+IoT+systems+%F0%9F%A4%96;Bridging+hardware+and+software+%F0%9F%94%97;Always+learning%2C+always+improving+%F0%9F%8C%B1" alt="Typing SVG" />
-</a>
+<br/>
 
-<!-- QUICK CONTACT / CTA -->
-<p align="center">
-  <a href="https://github.com/aland-omed">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff" />
-  </a>
-  <a href="https://www.linkedin.com/in/aland-omed-a17956348/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
-  </a>
-  <a href="mailto:aland.omed.mohammed@gmail.com">
-    <img src="https://img.shields.io/badge/Email-DC4A3D?style=for-the-badge&logo=gmail&logoColor=ffffff" />
-  </a>
-  <a href="https://main.codecommerce.info/">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=ffffff" />
-  </a>
-</p>
-
-<!-- LIVE META -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aland-omed&label=Profile%20Views&color=0EA5E9&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/aland-omed?label=Followers&style=flat-square&color=0EA5E9&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/aland-omed?label=Stars&style=flat-square&color=0EA5E9&logo=github" alt="Stars" />
-</p>
+<a href="https://orbit.krd"><img src="assets/btn-orbit.svg" height="52" alt="orbit.krd" /></a>
+<a href="https://orbit.krd/core"><img src="assets/btn-core.svg" height="52" alt="Orbit Core" /></a>
+<a href="https://www.linkedin.com/in/aland-omed-a17956348/"><img src="assets/btn-linkedin.svg" height="52" alt="LinkedIn" /></a>
+<a href="https://github.com/aland-omed"><img src="assets/btn-github.svg" height="52" alt="GitHub" /></a>
+<a href="mailto:aland.omed.mohammed@gmail.com"><img src="assets/btn-email.svg" height="52" alt="Email" /></a>
+<a href="https://main.codecommerce.info/"><img src="assets/btn-portfolio.svg" height="52" alt="Portfolio" /></a>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<img src="assets/h-orbit.svg" width="100%" alt="01 · Orbit KRD" />
+
+**ئەلەند ئومێد** · I'm Aland Omed, a computer engineer from the Kurdistan Region of Iraq and the founder of **Orbit KRD**.
+
+**Orbit KRD is a software company and marketing agency.** We create every type of system, software and application, and we run the marketing side too: the plans, the content, the brand and the film. **Orbit Core** is a part of Orbit KRD: the till, dining and retail systems and the apps around them.
+
+<div align="center">
+<img src="assets/agency.svg" width="100%" alt="Orbit KRD: Software, Orbit Core and Orbit Vision" />
+</div>
+
+<img src="assets/h-software.svg" width="100%" alt="02 · Software" />
+
+We are a software company. If a business needs it to run on a screen, we build it, in English, Kurdish and Arabic, with real right-to-left layouts.
+
+<div align="center">
+<img src="assets/software.svg" width="100%" alt="Software we build: business systems, web apps, mobile apps, POS, dashboards, APIs, IoT, AI" />
+</div>
+
+<img src="assets/h-core.svg" width="100%" alt="03 · Orbit Core" />
+
+**Orbit Core** is a part of Orbit KRD: the systems and apps we built for venues. One multi-tenant platform runs a business end to end: the till at the counter, the screens in the kitchen, the page a guest finds, the app they order from and the points they earn. Every venue is a tenant with one vertical and only the add-ons it needs.
+
+<div align="center">
+<img src="assets/ecosystem.svg" width="100%" alt="The Orbit Core ecosystem: verticals, apps and add-ons in orbit around the platform" />
+<img src="assets/facts.svg" width="100%" alt="5 verticals, 3 languages, 3 till platforms, 2 app stores" />
+</div>
+
+| Layer | What it does |
+|---|---|
+| **Dining** | POS, tabs, table ordering from the Orbit app, kitchen, bar and shisha station screens, waiter "ready" push, drawer and shift statements |
+| **Retail** | Apparel and barcode POS with a stock ledger |
+| **Online shop** | Orders from the Orbit app with the shop's own delivery, plus a themed shop page per brand |
+| **Salon** | Bookings, a salon till and a phone-first flow |
+| **Venue pages** | A page and QR for any venue, with or without a till |
+| **Money** | Cash drawer open and close, cash-out kinds, hand-over and printable statements |
+| **Network** | One Orbit Points currency, stamp cards and offers across venues |
+| **Stock · Discounts** | Track-in-stock menu items and rule-based discounts with manager approval |
+| **Play** | Word and puzzle games and match predictions inside the Orbit app |
+| **Orbit Control** | The platform cockpit for onboarding, billing and app releases |
+
+**How it fits together**
+
+<div align="center">
+<img src="assets/architecture.svg" width="100%" alt="Apps and screens talk to a REST API and realtime layer, which feed Orbit Core, backed by MariaDB, Redis, WhatsApp and push" />
+</div>
+
+<table>
+  <tr>
+    <td width="25%" valign="top"><b>One codebase, two products</b><br/><sub>A single Flutter app becomes the staff Till and the guest Orbit app from build flags.</sub></td>
+    <td width="25%" valign="top"><b>Multi-tenant by design</b><br/><sub>Every venue has one vertical and its own add-ons, switched per venue and never forked.</sub></td>
+    <td width="25%" valign="top"><b>Offline-safe writes</b><br/><sub>ULIDs, client UUIDs and one idempotency key per action, so a weak connection never double-charges a table.</sub></td>
+    <td width="25%" valign="top"><b>Kurdish and Arabic first</b><br/><sub>RTL layouts, AM/PM times and digits that stay readable in every language.</sub></td>
+  </tr>
+</table>
+
+<img src="assets/h-vision.svg" width="100%" alt="04 · Orbit Vision" />
+
+**Orbit Vision** is the marketing and brand side of the agency. It plans, writes, designs and films, so the software we build gets seen and the brands we work with look like they mean it.
+
+<div align="center">
+<img src="assets/vision.svg" width="100%" alt="Marketing and brand work: plans, identity, content, film, social, campaigns, websites, print" />
+</div>
+
+<img src="assets/h-process.svg" width="100%" alt="05 · How we work" />
+
+<div align="center">
+<img src="assets/process.svg" width="100%" alt="Discover, plan, design, build, launch, grow" />
+</div>
+
+<img src="assets/h-about.svg" width="100%" alt="06 · About me" />
 
 <table>
   <tr>
     <td width="60%" valign="top">
 
-I’m a **Computer Engineer** from **Kurdistan, Iraq 🇮🇶** focused on building:
-
-- **Full stack web applications**
-- **IoT systems & connected devices**
-- **Cloud‑ready, scalable architectures**
-
-I love turning complex problems into **clean, reliable systems** that are easy to use and maintain.
-
 ```yaml
-name: "Aland Omed"
-role: "Computer Engineer"
-location: "Kurdistan, Iraq"
+name: Aland Omed  # ئەلەند ئومێد
+role: Founder, Orbit KRD · Computer Engineer
+location: Kurdistan Region of Iraq
+languages: [English, کوردی (سۆرانی), العربية]
+agency:
+  - Software          # systems, apps, APIs, IoT, AI
+  - Orbit Core        # till, dining, retail, venue platform
+  - Orbit Vision      # plans, content, brand, film
 focus:
-  - Full Stack Development
-  - IoT & Embedded Systems
-  - Cloud & DevOps
+  - Full stack products people use all day
+  - Realtime and offline-safe systems
+  - Brands and content that match the product
 values:
-  - Clean, maintainable code
-  - Performance & reliability
+  - Calm interfaces, clear code
+  - Reliability before features
   - Real-world impact
 ```
 
 </td>
-    <td width="40%" align="center" valign="top">
-      <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Coding animation" width="95%" />
-    </td>
+    <td width="40%" valign="top">
+
+**Shipping lately**
+
+- Orbit app on the App Store and Google Play
+- Salon and online-shop verticals
+- Orbit Network: one points currency across venues
+- Orbit Play: games and predictions
+- Money add-on with drawer and statements
+- A new Orbit KRD website and brand kit
+
+**Open to**
+
+- Software and marketing projects
+- Collaboration and open source
+- Technical talks and mentoring
+
+</td>
   </tr>
 </table>
 
----
+<img src="assets/h-tools.svg" width="100%" alt="07 · Toolbox" />
 
-## 🧠 Core Skillset
+<div align="center">
+<img src="assets/stack.svg" width="100%" alt="Flutter, Laravel, Next.js and the rest of the toolbox" />
+</div>
+
+<img src="assets/h-activity.svg" width="100%" alt="08 · Activity" />
 
 <div align="center">
 
-### 🖥️ Frontend
+<img src="https://github-readme-stats.vercel.app/api?username=aland-omed&show_icons=true&hide_border=false&border_color=1E2342&bg_color=080A1E&title_color=FF3D00&text_color=F4EFEB&icon_color=FF3D00&ring_color=FF3D00&rank_icon=github" alt="GitHub stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aland-omed&layout=compact&hide_border=false&border_color=1E2342&bg_color=080A1E&title_color=FF3D00&text_color=F4EFEB" alt="Top languages" height="170" />
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass&perline=9" alt="Frontend stack" />
+<br/><br/>
 
-### ⚙️ Backend & APIs
+<img src="https://streak-stats.demolab.com?user=aland-omed&background=080A1E&border=1E2342&ring=FF3D00&fire=FF3D00&currStreakNum=F4EFEB&sideNums=F4EFEB&currStreakLabel=FF3D00&sideLabels=F4EFEB&dates=8A8FA8" alt="GitHub streak" />
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi,php,graphql&perline=9" alt="Backend stack" />
+<br/><br/>
 
-### 🗄️ Databases & Cloud
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase,aws,docker,linux&perline=9" alt="DB & cloud" />
-
-### 🔌 IoT & Tools
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,git,github,vscode,nginx,postman&perline=9" alt="IoT & tools" />
-
-</div>
-
----
-
-## 🎯 What I’m Good At
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <h3>🌐 Web Apps</h3>
-      <p align="left">
-      • Responsive, modern UI/UX<br>
-      • SPA & SSR with React / Next.js<br>
-      • Performance & accessibility<br>
-      • Clean design systems
-      </p>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h3>💻 Full Stack Systems</h3>
-      <p align="left">
-      • REST & GraphQL APIs<br>
-      • Auth, roles & permissions<br>
-      • DB schema & query optimization<br>
-      • CI/CD & deployment pipelines
-      </p>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h3>🤖 IoT & Automation</h3>
-      <p align="left">
-      • Sensor integration & data routing<br>
-      • Arduino / Raspberry Pi projects<br>
-      • Real-time dashboards<br>
-      • Smart automation solutions
-      </p>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 🗂️ Selected Tech Stack Snapshot
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="60" />
-      <br/>
-      <b>React & Next.js</b>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JS/TS" width="60" />
-      <br/>
-      <b>JavaScript & TypeScript</b>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" />
-      <br/>
-      <b>Python & Django</b>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="60" />
-      <br/>
-      <b>Docker & Cloud</b>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub Overview
-<div align="center">
-
-  <!-- MAIN STATS (SIMPLE) -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aland-omed&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Aland's GitHub stats"
-    height="165"
-  />
-
-  <br /><br />
-
-  <!-- TOP LANGUAGES (SIMPLE) -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aland-omed&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top languages"
-    height="165"
-  />
-
-  <br /><br />
-
-  <!-- STREAK (DEMOLAB INSTANCE) -->
-  <img
-    src="https://streak-stats.demolab.com?user=aland-omed&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-
-</div>
-
-<!-- ACTIVITY GRAPH -->
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=aland-omed&bg_color=0f172a&color=38bdf8&line=38bdf8&point=22c55e&area=true&hide_border=true"
-  alt="Contribution graph"
-  width="100%"
-/>
-
-</div>
-
----
-
-## 🐍 Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aland-omed/aland-omed/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aland-omed/aland-omed/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/aland-omed/aland-omed/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
-## 📬 Let’s Connect
-
-<div align="center">
-
-I’m **open to**:
-
-- 💼 Freelance & contract work  
-- 🤝 Collaborations & open‑source  
-- 🧠 Technical discussions & mentorship  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aland-omed&bg_color=080A1E&color=F4EFEB&line=FF3D00&point=F4EFEB&area=true&area_color=FF3D00&title_color=FF3D00&hide_border=true" alt="Contribution graph" width="100%" />
 
 <br/>
 
-<a href="mailto:aland.omed.mohammed@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach_Out-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/aland-omed-a17956348/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://main.codecommerce.info/">
-  <img src="https://img.shields.io/badge/Portfolio-View_Projects-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aland-omed/aland-omed/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aland-omed/aland-omed/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/aland-omed/aland-omed/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
----
+<img src="assets/h-talk.svg" width="100%" alt="09 · Let's talk" />
+
+Running a café, restaurant, salon, shop or brand and want it on one clean system? Need an app or system, a marketing plan or a brand people remember? Tell me what you are building and I will read every message.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:2563EB,100:1D4ED8&height=120&section=footer" width="100%" />
+<a href="mailto:aland.omed.mohammed@gmail.com"><img src="assets/btn-talk.svg" height="52" alt="Start a project" /></a>
+<a href="https://orbit.krd"><img src="assets/btn-orbit.svg" height="52" alt="orbit.krd" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Thanks+for+stopping+by!+🚀;Let%27s+build+something+great+together.;Always+learning.+Always+improving.+🌱" alt="Footer typing" />
+<br/><br/>
 
+<img src="assets/footer.svg" alt="Made in Orbit." width="100%" />
 
 </div>
