@@ -55,21 +55,6 @@ We are a software company. If a business needs it to run on a screen, we build i
 | **Play** | Word and puzzle games and match predictions inside the Orbit app |
 | **Orbit Control** | The platform cockpit for onboarding, billing and app releases |
 
-**How it fits together**
-
-<div align="center">
-<img src="assets/architecture.svg" width="100%" alt="Apps and screens talk to a REST API and realtime layer, which feed Orbit Core, backed by MariaDB, Redis, WhatsApp and push" />
-</div>
-
-<table>
-  <tr>
-    <td width="25%" valign="top"><b>One codebase, two products</b><br/><sub>A single Flutter app becomes the staff Till and the guest Orbit app from build flags.</sub></td>
-    <td width="25%" valign="top"><b>Multi-tenant by design</b><br/><sub>Every venue has one vertical and its own add-ons, switched per venue and never forked.</sub></td>
-    <td width="25%" valign="top"><b>Offline-safe writes</b><br/><sub>ULIDs, client UUIDs and one idempotency key per action, so a weak connection never double-charges a table.</sub></td>
-    <td width="25%" valign="top"><b>Kurdish and Arabic first</b><br/><sub>RTL layouts, AM/PM times and digits that stay readable in every language.</sub></td>
-  </tr>
-</table>
-
 <img src="assets/h-vision.svg" width="100%" alt="04 · Orbit Vision" />
 
 **Orbit Vision** is the marketing and brand side of the agency. It plans, writes, designs and films, so the software we build gets seen and the brands we work with look like they mean it.
